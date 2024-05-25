@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons"); 
+
+.store_header {
+    display: flex;
+    width: 100%;
+    padding: 1rem 0;
+    justify-content: flex-end;
+    
+    
+}
+
+.store_btn {
+    font-size: 40px;
+    color: #a8a7a7;
+  }
+
+button {
+    font-family: inherit;
+    font-size: 100%;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.text {
+    text-align: left;
+}
